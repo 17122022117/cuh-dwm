@@ -1,3 +1,6 @@
 *.orig
 dwm
 config.h
+dwm.o
+util.o
+drw.o
